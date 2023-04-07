@@ -240,6 +240,14 @@ i.star.far.fa-star {
   color: #333;
 }
 
+form input {
+  padding: 10px;
+}
+
+form input:first-child {
+  width: 120px;
+}
+
 ul.reviews-container {
   margin-left: 50px;
 }
